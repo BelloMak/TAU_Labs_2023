@@ -7,6 +7,7 @@
 - Simscape и все, что с ним связано;
 - Stateflow;
 - Symbolic Math Toolbox;
+- Optimization Toolbox;
 - System Identification Toolbox.
 
 # Назначение репозитория
