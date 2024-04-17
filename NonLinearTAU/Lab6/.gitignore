@@ -1,0 +1,5 @@
+# Simplest .gitignore file for a MATLAB Project
+
+*.slxc # Simulink Cache
+*.asv # MATLAB script autosave file
+slprj/ # Simulink Cache directories
