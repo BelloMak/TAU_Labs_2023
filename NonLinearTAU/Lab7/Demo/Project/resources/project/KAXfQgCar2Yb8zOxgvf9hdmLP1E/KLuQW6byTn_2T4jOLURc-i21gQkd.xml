@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="Shutdown" Visible="0" Icon="" File="scripts/Deinitialization/clear_trash.m" Name="clear_trash">
+    <Extension Value="7020b8d9-c6e4-46dd-81e3-d28e9e04268f" Name="ShutdownPrev"/>
+</Info>
